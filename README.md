@@ -58,7 +58,7 @@ Each project is organized logically, so you can easily follow my workflow.
 3.  **Run the analysis:** Use a **Jupyter Notebook** environment to execute the Python scripts and follow the data analysis process.
 4.  **Review the code:** Examine the **SQL scripts** to understand the data cleaning and preparation methods.
 
-Feedback and suggestions are welcome! Feel free to open an issue or contact me. 🤝
+Feedback and suggestions are welcome !!!! Feel free to open an issue or contact me. 🤝
 
 ---
 
